@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Collaboration");
-        
-        }
+
+        System.out.println("test 16.05.2025");
     }
 }
