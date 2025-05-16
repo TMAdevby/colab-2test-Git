@@ -7,5 +7,7 @@ public class Main {
         System.out.println("revert");
 
         System.out.println("commit 1");
+
+        System.out.println("commit 2");
     }
 }
