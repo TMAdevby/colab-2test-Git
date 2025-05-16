@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Collaboration");
 
         System.out.println("revert");
+
+        System.out.println("commit 1");
     }
 }
